@@ -1,2 +1,5 @@
-data
+/data
 project1-credits.ipynb
+.DS-store
+.ipynb_checkpoints
+/**/*.csv
