@@ -1,4 +1,5 @@
 # Изучение рынка общественного питания в Москве
+[Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/restaurants/restaurants.ipynb)
 ## Данные
 Датасет содержит сведения о предприятиях общественного питания в Москве:
 - ID;
