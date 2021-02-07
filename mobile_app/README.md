@@ -1,4 +1,5 @@
 # Анализ мобильного приложения
+[Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/mobile_app/mobile_app.ipynb)
 ## Данные
 Датасет представляет собой логи действий пользователей и содержит:
 - название события;
