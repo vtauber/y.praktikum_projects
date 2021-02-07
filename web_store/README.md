@@ -1,5 +1,5 @@
 # Тестирование гипотез для увеличения выручки онлайн-магазина
-[Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/web_store/web_store.ipynb)
+[Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/web_store/web_store.ipynb)  
 Работа состоит из двух частей - приоритизации гипотез с помощью фреймворков ICE и RICE и анализа результатов A/B-тестирования.
 ## Данные
 Для первой части работы использована таблица с несколькими гипотезами, для каждой из которых по десятибалльной шкале оценены показатели Reach, Inpact, Confidence и Effort.
