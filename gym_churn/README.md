@@ -1,4 +1,5 @@
 # Анализ оттока клиентов фитнес-клуба
+[Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/afisha_marketing/gym_churn.ipynb)
 ## Данные
 Датасет содержал данные о 4000 клиентов фитнес-клуба:
 - пол;
