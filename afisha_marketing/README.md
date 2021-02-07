@@ -1,4 +1,5 @@
 # Анализ маркетинговых расходов Яндекс.Афиши
+[Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/afisha_marketing/afisha_marketing.ipynb)
 ## Данные
 Данные объединены в три таблицы:
 - лог заходов пользователей (содержит тип устройства, источник трафика, ID пользователя, время начала и конца сессии);
