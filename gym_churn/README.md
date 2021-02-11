@@ -1,9 +1,9 @@
 # Анализ оттока клиентов фитнес-клуба
 [Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/gym_churn/gym_churn.ipynb)
-## Статус
-Проект завершен.
 ## Задача
 Провести анализ данных и предложить план по удержанию клиентов. 
+## Статус
+Проект завершен.
 ## Основные использованные библиотеки
 *pandas  
 numpy  
