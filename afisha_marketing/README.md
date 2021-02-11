@@ -2,6 +2,8 @@
 [Смотреть тетрадь через nbviewer](https://nbviewer.jupyter.org/github/vtauber/y.praktikum_projects/blob/master/afisha_marketing/afisha_marketing.ipynb)
 ## Задача
 Цель работы - формирование рекомендация для Яндекс.Афиши по оптимизации маркетинговых расходов.
+## Статус
+Проект завершен.
 ## Основные использованные библиотеки
 *pandas  
 numpy  
